@@ -1,0 +1,5 @@
+Superuser - saknes pieeja.
+
+Package - pakotne.
+
+Status bar - statusa josla.

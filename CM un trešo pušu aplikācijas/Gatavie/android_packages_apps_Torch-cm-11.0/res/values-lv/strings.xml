@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013 The CyanogenMod Project
+
+     This program is free software; you can redistribute it and/or
+     modify it under the terms of the GNU General Public License
+     version 3 as published by the Free Software Foundation.
+
+     This program is distributed in the hope that it will be useful,
+     but WITHOUT ANY WARRANTY; without even the implied warranty of
+     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+     GNU General Public License for more details.
+
+     You should have received a copy of the GNU General Public License
+     along with this program; if not, write to the Free Software
+     Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+     MA  02110-1301, USA.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Lāpa</string>
+    <string name="about_title">Par</string>
+    <string name="about_close">Aizvērts</string>
+
+    <string name="description">Šī programma manipulē kameras LED zibspuldzi.\n</string>
+    <string name="warning">Brīdinājums: LED zibspuldze var pārkarst un radīt bojājumus ierīcei.\n\nAugsts spilgtums ir testēts &#189; stundas garumā, bet pastāv risks to bojāt.\n</string>
+    <string name="license">Kods ir ņemts no Nexus One lāpas, ko rakstija Bens Bukstons (Ben Buxton). Kods ir relizēts zem GPL v3 licences.\nhttp://n1torch.googlecode.com/\n\nPaldies Deividam Prieto (David Prieto) par jauno interfeisa dizainu.\n\nModificēja Stīvs Kondiks (Steve Kondik) CyanogenMod versijai.\n\n</string>
+    <string name="warning_label">Brīdinājums</string>
+    <string name="brightwarn">Augsts spilgtums ir veiksmīgi testēts &#189; stundu, bet LED zibspuldze kļuva karsta un sāka mirgot uz laiku 45. minūtē. Ilgstošāka darbība var radīt nezināmas sekas.\n\n Šī iespēja pagaidām nav atblastīta sīkrīkā.\n\nPiespiediet &#8220;Pieņemt&#8221; ja vēlaties izmantot šo iespēju apzimnoties risku.</string>
+    <string name="brightwarn_negative">Nē, paldies</string>
+    <string name="brightwarn_accept">Pieņemt</string>
+
+    <string name="label_high">Augsts spilgtums</string>
+    <string name="label_strobe">Mirgot</string>
+
+    <string name="widget_options">Vispārīgie iestatījumi</string>
+    <string name="setting_widget_bright">Spilgtuma sīkrīks</string>
+    <string name="setting_widget_strobe">Mirgojoša zibspuldze</string>
+    <string name="setting_frequency_title">Mirgošanas frekvence</string>
+    <string name="setting_frequency_dialog">Frekvence</string>
+    <string name="setting_frequency_hz" translatable="false"> Hz</string>
+    <string name="setting_add_widget">Pievienot sīkrīku</string>
+
+    <string name="not_torch_title">Ieslēgt lāpu</string>
+    <string name="not_torch_toggle">Izslēgt lāpu</string>
+</resources>

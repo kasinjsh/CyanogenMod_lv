@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- <string name="weather_15">Blowing Snow</string> - is this blizzard? -->
+    <string name="use_digital_clock_summary">Izvēlieties lai pārslēgtos starp digitālo un analogo attēlojumu</string>
+
+    <string name="weather_use_custom_location">Izmantot pielāgotu atrašanās vietu</string>
+    <string name="weather_geolocated">Noteikt izmantojot tīklu</string>
+    <string name="weather_custom_location_dialog_title">Ievadiet atrašanās vietu</string>
+    <string name="weather_custom_location_hint">Pilsēta, Valsts/Reģions/Pilsēta</string>
+    <string name="weather_alternate_icons_title">Izmantot krāsu ikonas</string>
+    <string name="weather_alternate_icons_summary">Izvēlieties lai pārslēgtu starp noklusējumu (krāsām) un alternatīvām (baltām) ikonām</string>
+    <string name="weather_show_when_minimized_title">Rādīt kad ir minimizēts</string>
+    <string name="weather_show_when_minimized_summary">Rādīt laikapstākļu informāciju kad sīkrīks ir minimizēts</string>
+
+    <string name="font_color">Fonta krāsa</string>
+    <string name="font_color_alarm">Modinātāja fonta krāsa</string>
+    <string name="font_color_timestamp">Laika zīmoga fonta krāsa</string>
+    <string name="font_color_calendar_details">Detaļu fonta krāsa</string>
+
+    <string name="grey">Pelēks</string><!-- just in case the default ever becomes 'Gray' -->
+</resources>

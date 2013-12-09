@@ -40,7 +40,7 @@
     <string name="date_qs_currentmonth">Pašreizējais mēnesis</string>
     <string name="date_qs_currentquarter">Pašreizējais ceturksnis</string>
     <string name="date_qs_currentyear">Pašreizējais gads</string>
-    <string name="date_qs_lastweek">Pēdejās nedēļas laikā</string>
+    <string name="date_qs_lastweek">Pēdējās nedēļas laikā</string>
     <string name="date_qs_lastmonth">Pēdējā mēneša laikā</string>
     <string name="date_qs_lastquarter">Pēdējā ceturkšņa laikā</string>
     <string name="date_qs_lastyear">Pēdējā gada laikā</string>

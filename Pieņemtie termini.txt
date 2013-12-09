@@ -3,3 +3,7 @@ Superuser - saknes pieeja.
 Package - pakotne.
 
 Status bar - statusa josla.
+
+Transfer - pārnest.
+
+Timestamp - laika zīmogs.

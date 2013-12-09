@@ -104,9 +104,9 @@
 
     <!-- Profile mode options. -->
     <string-array name="profile_entries">
-        <item>On</item>
-        <item>Off</item>
-        <item>No override</item>
+        <item>Ieslēgt</item>
+        <item>Izslēgt</item>
+        <item>Nepārtvert</item>
     </string-array>
 
     <!-- Values for vibrate_entries matching constants in SoundSettings. Do not translate. -->
@@ -118,8 +118,8 @@
 
     <!-- Profile mode options. -->
     <string-array name="profile_connection_entries">
-        <item>Disable</item>
-        <item>Enable</item>
+        <item>Atiestatīt</item>
+        <item>Iestatīt</item>
     </string-array>
 
     <!-- Profile 2G-3G mode options. -->
@@ -333,9 +333,9 @@
 
     <!-- Performance settings -->
     <string-array name="pref_zram_size_entries">
-        <item>Disabled</item>
+        <item>Atiestatīts</item>
         <item>10%</item>
-        <item>18% (default)</item>
+        <item>18% (noklusējums)</item>
         <item>26%</item>
     </string-array>
 

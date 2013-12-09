@@ -15,9 +15,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Context Menu item to open the currently selected link in a new incognito window. -->
-    <string name="contextmenu_openlink_incognito_newwindow">Atvērt privātajā cilnē</string>
+    <string name="contextmenu_openlink_incognito_newwindow">Atvērt jaunā inkognito cilnē</string>
     <!-- Context Menu item to open the currently selected link in a new background window. [CHAR LIMIT=50] -->
-    <string name="contextmenu_openlink_incognito_newwindow_background">Atvērt privātā fona cilnē</string>
+    <string name="contextmenu_openlink_incognito_newwindow_background">Atvērt jaunā fona inkognito cilnē</string>
 
     <!-- User agent label -->
     <string name="pref_content_ua">Lietotāja identitāte</string>
@@ -27,12 +27,12 @@
     <!-- Title for the WebGL feature [CHAR LIMIT=40] -->
     <string name="pref_lab_webgl">WebGL</string>
     <!-- Summary for the WebGL lab feature [CHAR LIMIT=120] -->
-    <string name="pref_lab_webgl_summary">iespējot WebGL</string>
+    <string name="pref_lab_webgl_summary">Iespējot WebGL</string>
     <!-- Title for the WebSockets feature [CHAR LIMIT=40] -->
     <string name="pref_lab_websockets">WebSockets</string>
     <!-- Summary for the WebGL lab feature [CHAR LIMIT=120] -->
-    <string name="pref_lab_websockets_summary">iespējot WebSockets</string>
+    <string name="pref_lab_websockets_summary">Iespējot WebSockets</string>
 
     <!-- Content description for home screen button [CHAR LIMIT=NONE] -->
-    <string name="accessibility_button_homescreen">Sākuma ekrāns</string>
+    <string name="accessibility_button_homescreen">Sākuma lapa</string>
 </resources>
